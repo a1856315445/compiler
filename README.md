@@ -23,6 +23,6 @@
 
 >if error like:```ld: cannot find crt1.o: No such file or directory``` or ```ld: cannot find crti.o: No such file or directory```
 >
->use ```whereis *file name*``` to find the file path
+>use ```whereis filename``` to find the file path
 >
 >```gedit gcc.sh```
