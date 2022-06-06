@@ -4,6 +4,7 @@
 change to root user
 
 ```sudo su```
+
 install git package management tool
 
 ```apt-get install git```
