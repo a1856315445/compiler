@@ -1,8 +1,11 @@
 # Compiler-final
 ## system environment:Ubuntu20.04
->change to root user
+
+change to root user
+
 ```sudo su```
->install git package management tool
+install git package management tool
+
 ```apt-get install git```
 
 ```git clone https://github.com/a896536351/compiler-final.git```
