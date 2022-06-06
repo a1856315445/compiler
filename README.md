@@ -25,7 +25,7 @@
 
 ```bash gcc.sh```
 
->execute the installer of gcc
+>execute the installer of llvm
 
 ```bash llvm.sh```
 
