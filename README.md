@@ -37,4 +37,6 @@
 >
 >```gedit gcc.sh``` edit the .sh to find the path of crt1.o/crti.o/crtn.o and replace it
 
-```diff sample3.c```
+```diff 
+-sample3.c
+```
