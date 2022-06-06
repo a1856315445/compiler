@@ -21,6 +21,8 @@
 
 ```bash llvm.sh```
 
->if error like:"ld: cannot find crt1.o: No such file or directory" or "ld: cannot find crti.o: No such file or directory"
+>if error like:```ld: cannot find crt1.o: No such file or directory``` or ```ld: cannot find crti.o: No such file or directory```
 >
->use "whereis crt1.o" to find the file path
+>use ```whereis crt1.o``` to find the file path
+>
+>```gedit gcc.sh```
