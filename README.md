@@ -36,4 +36,5 @@
 >use ```whereis filename``` to find the file path
 >
 >```gedit gcc.sh``` edit the .sh to find the path of crt1.o/crti.o/crtn.o and replace it
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
+```diff sample3.c```
