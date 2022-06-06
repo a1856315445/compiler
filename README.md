@@ -1,6 +1,6 @@
 # Compiler-final
 // system environment:Ubuntu20.04
-  sudo su
+  //sudo su
   //change to root user
   apt-get install git
   //install git package management tool
