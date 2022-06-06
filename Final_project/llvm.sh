@@ -32,7 +32,7 @@ llc sample3.ll
 
 echo -------------------------------------------------------------------------
 
-echo cat sample3.s
+echo $cat sample3.s
 
 echo
 
@@ -40,13 +40,13 @@ cat sample3.s
 
 echo -------------------------------------------------------------------------
 
-echo as sample3.s -o sample3.o
+echo $as sample3.s -o sample3.o
 
 as sample3.s -o sample3.o
 
 echo
 
-echo ld -o sample3 -dynamic-linker /lib64/ld-linux-x86-64.so.2 /usr/lib/x86_64-linux-gnu/crt1.o /usr/lib/x86_64-linux-gnu/crti.o  /usr/lib/x86_64-linux-gnu/crtn.o sample3.o -lc  
+echo $ld -o sample3 -dynamic-linker /lib64/ld-linux-x86-64.so.2 /usr/lib/x86_64-linux-gnu/crt1.o /usr/lib/x86_64-linux-gnu/crti.o  /usr/lib/x86_64-linux-gnu/crtn.o sample3.o -lc  
 
 ld -o sample3 -dynamic-linker /lib64/ld-linux-x86-64.so.2 /usr/lib/x86_64-linux-gnu/crt1.o /usr/lib/x86_64-linux-gnu/crti.o  /usr/lib/x86_64-linux-gnu/crtn.o sample3.o -lc  
 
