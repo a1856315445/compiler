@@ -12,17 +12,25 @@
 >
 
 ```git clone https://github.com/a896536351/compiler-final.git```
-    
+
+>
+
 ```cd compiler-final/Final_project```
+
+>
 
 ```bash lex_yacc.sh```
 
+>
+
 ```bash gcc.sh```
+
+>
 
 ```bash llvm.sh```
 
->if error like:```ld: cannot find crt1.o: No such file or directory``` or ```ld: cannot find crti.o: No such file or directory```
->
->use ```whereis filename``` to find the file path
->
->```gedit gcc.sh```
+>>if error like:```ld: cannot find crt1.o: No such file or directory``` or ```ld: cannot find crti.o: No such file or directory```
+
+>>use ```whereis filename``` to find the file path
+
+>>```gedit gcc.sh```
