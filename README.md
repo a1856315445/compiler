@@ -21,7 +21,9 @@
 
 ```bash lex_yacc.sh```
 
->edit the ```diff -sample3.c``` add ```#include <stdio.h>``` to the top
+>edit the ```diff
+>sample3.c
+>``` add ```#include <stdio.h>``` to the top
 >
 >execute the installer of gcc
 
