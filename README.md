@@ -4,10 +4,12 @@
 >change to root user
 
 ```sudo su```
-<
+
 >install git package management tool
 
 ```apt-get install git```
+
+>
 
 ```git clone https://github.com/a896536351/compiler-final.git```
     
@@ -19,5 +21,5 @@
 
 ```bash llvm.sh```
 
-#if error like:"ld: cannot find crt1.o: No such file or directory" or "ld: cannot find crti.o: No such file or directory"
-#use "whereis crt1.o" to find the file path
+>if error like:"ld: cannot find crt1.o: No such file or directory" or "ld: cannot find crti.o: No such file or directory"
+>use "whereis crt1.o" to find the file path
