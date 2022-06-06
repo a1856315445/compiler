@@ -1,5 +1,5 @@
 # Compiler-final
-## system environment:Ubuntu20.04
+## system environment:Ubuntu20.04/18.04
 
 >change to root user
 
@@ -21,8 +21,8 @@
 
 ```bash lex_yacc.sh```
 
->edit the **sample3.c**
-
+>>edit the **sample3.c** add ```#include <stdio.h>``` to the top
+>
 >execute the installer of gcc
 
 ```bash gcc.sh```
