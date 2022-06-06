@@ -21,6 +21,8 @@
 
 ```bash lex_yacc.sh```
 
+>>edit the **sample3.c**
+
 >execute the installer of gcc
 
 ```bash gcc.sh```
