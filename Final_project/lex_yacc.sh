@@ -1,7 +1,7 @@
 #!/bin/sh
 # This file should be sourced
 
-apt-get update
+apt-get update -y
  
 apt-get install flex bison git vim -y
 
