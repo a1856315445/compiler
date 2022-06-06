@@ -11,7 +11,7 @@
 
 >download compiler-final.git
 
-```git clone https://github.com/willfroggg/compiler-final.git```
+```git clone https://github.com/a1856315445/compiler-final.git```
 
 >change directories to compiler-final/Final_project
 
