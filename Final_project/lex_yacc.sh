@@ -5,8 +5,9 @@ apt-get update
  
 apt-get install flex bison git vim -y
 
+echo -------------------------------------------------------------
 
-echo lex lex.l
+echo $ lex lex.l
 
 echo
 
@@ -16,7 +17,7 @@ ls
 
 echo -------------------------------------------------------------
 
-echo yacc -d yacc.y
+echo $ yacc -d yacc.y
 
 echo
 
@@ -26,18 +27,14 @@ ls
 
 echo -------------------------------------------------------------
 
-echo cc lex.yy.c y.tab.c -o cfp
+echo $ cc lex.yy.c y.tab.c -o cfp
 
 echo
 
 cc lex.yy.c y.tab.c -o cfp
-
-echo
 
 echo -------------------------------------------------------------
 
 ls
 
 echo -------------------------------------------------------------
-
-echo
