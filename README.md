@@ -35,4 +35,4 @@
 >
 >use ```whereis filename``` to find the file path
 >
->```gedit gcc.sh``` edit the .sh to find the path of crt1.o/crti.o and replace it
+>```gedit gcc.sh``` edit the .sh to find the path of crt1.o/crti.o/crtn.o and replace it
