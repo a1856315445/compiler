@@ -1,3 +1,5 @@
+sudo apt-get install clang llvm -y
+
 clang -S -emit-llvm sample3.c
 
 cat sample3.ll
