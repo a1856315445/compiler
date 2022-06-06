@@ -1,5 +1,5 @@
 # Compiler-final
-## system environment:Ubuntu22.04/20.04/18.04
+## System environment:Ubuntu22.04/20.04/18.04
 
 >change to root user
 
