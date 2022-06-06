@@ -1,7 +1,7 @@
 # Compiler-final
-#system environment:Ubuntu20.04
-
-sudo su
+## system environment:Ubuntu20.04
+###
+'''sudo su'''
 
 #change to root user
 
