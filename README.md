@@ -1,7 +1,7 @@
 # Compiler-final
 ## System environment:Ubuntu22.04/20.04/18.04
 
->change to root user
+>change the privileges to the root user
 
 ```sudo su```
 
