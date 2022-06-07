@@ -1,4 +1,4 @@
-# CompilerFinalProject
+# Compiler Sample
 ## System environment:Ubuntu22.04/20.04/18.04
 
 >Change the privileges to the root user
