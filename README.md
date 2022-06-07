@@ -33,4 +33,4 @@
 >
 >Use ```whereis filename``` command to find the file's path . There are 3 files need to find out.
 >
->```gedit gcc.sh (and llvm.sh)``` to modify the ld command where you found in ```whereis``` 
+>```gedit gcc.sh (and llvm.sh)``` to modify the ld command which you found in ```whereis``` 
