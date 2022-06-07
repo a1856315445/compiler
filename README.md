@@ -9,7 +9,7 @@
 
 ```apt-get install git -y```
 
->Download compiler-final.git
+>Download compiler.git
 
 ```git clone https://github.com/a1856315445/compiler.git```
 
