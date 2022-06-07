@@ -15,7 +15,7 @@
 
 >Change directories to compiler-final/Final_project
 
-```cd compiler-final/Final_project```
+```cd compiler_project/Final_project```
 
 >Execute the installer of lex and yacc
 
