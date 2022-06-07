@@ -11,11 +11,11 @@
 
 >Download compiler-final.git
 
-```git clone https://github.com/a1856315445/compiler_project.git```
+```git clone https://github.com/a1856315445/compiler.git```
 
->Change directories to compiler-final/Final_project
+>Change directories to compiler/Final_project
 
-```cd compiler_project/Final_project```
+```cd compiler/Final_project```
 
 >Execute the installer of lex and yacc
 
