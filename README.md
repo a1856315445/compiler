@@ -7,7 +7,7 @@
 
 >install git package management tool
 
-```apt-get install git```
+```apt-get install git -y```
 
 >download compiler-final.git
 
@@ -33,4 +33,4 @@
 >
 >use ```whereis filename``` to find the file path
 >
->```gedit gcc.sh``` edit the .sh to find the path of crt1.o/crti.o/crtn.o and replace it
+>```gedit gcc.sh (and llvm.sh)``` to modify the ld command where you found in whereis command
