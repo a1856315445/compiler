@@ -35,6 +35,3 @@ echo
 echo $ ls-l
 
 ls -l
-
-echo
-
