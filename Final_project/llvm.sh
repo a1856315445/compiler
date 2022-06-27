@@ -1,4 +1,4 @@
-
+#install clang and llvm
 sudo apt-get install clang llvm -y
 
 echo $ clang -S -emit-llvm sample3.c cat 
@@ -6,7 +6,7 @@ echo $ clang -S -emit-llvm sample3.c cat
 echo $ sample3.ll
 
 echo
-
+#get llvm IR from sample3.c
 clang -S -emit-llvm sample3.c
 
 cat sample3.ll
