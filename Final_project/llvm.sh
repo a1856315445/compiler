@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #install clang and llvm
 sudo apt-get install clang llvm -y
 
