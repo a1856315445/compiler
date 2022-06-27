@@ -1,3 +1,5 @@
+#!/bin/sh
+
 apt update -y
 #install build-essential
 apt install build-essential -y
