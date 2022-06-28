@@ -28,7 +28,8 @@
 >Execute the installer of llvm
 
 ```bash clang_llvm.sh```
->or
+
+>or (on ubuntu 22.04)
 
 ```bash clang_llvm15.sh```
 
