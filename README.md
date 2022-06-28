@@ -28,6 +28,9 @@
 >Execute the installer of llvm
 
 ```bash clang_llvm.sh```
+>or
+
+```bash clang_llvm15.sh```
 
 >If error like:```ld: cannot find crt1.o: No such file or directory``` or ```ld: cannot find crti.o: No such file or directory```
 >
